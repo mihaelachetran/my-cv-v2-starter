@@ -1,0 +1,95 @@
+@media (min-width: 768px) {
+  /* grid {
+    grid-template-columns: repeat(8, 1fr);
+  }
+  grid > column[span-tablet$="+4"],
+  grid > column[span-tablet="4"] {
+    grid-column-end: span 4;
+    grid-column-start: auto;
+  }
+  
+  grid[columns-tablet="4"] {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  body {
+    font-family: Roboto;
+    margin: 0 80px;
+    }
+  } */
+  a[class^="disc-link__"] > [class^="my-cv-"]:before,
+  .my-cv-codetap .path1:before,
+  .my-cv-codetap .path2:before,
+  .my-cv-codetap .path3:before,
+  .my-cv-codetap .path4:before {
+    font-size: 4vw;
+  }
+    /* font-style: normal; */
+    /* content: "\e903"; */
+    /* color: rgb(68, 68, 68); */
+    /* color: #d52027; */
+  /* }
+    font-style: normal;
+    font-size: 8vw;
+    content: "\e904";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+  }
+    font-style: normal;
+    font-size: 8vw;
+    content: "\e905";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+  }
+    font-style: normal;
+    font-size: 8vw;
+    content: "\e906";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+  } */
+  .my-cv-codewars:before {
+    content: "\e907";
+  }
+  .my-cv-facebook:before {
+    content: "\e909";
+  }
+  .my-cv-github:before {
+    content: "\e90a";
+  }
+  .my-cv-instagram:before {
+    content: "\e90d";
+  }
+  .my-cv-linkedin:before {
+    content: "\e90e";
+  }
+  .my-cv-skype:before {
+    content: "\e90f";
+  }
+  .my-cv-stackoverflow:before {
+    content: "\e910";
+  }
+  .my-cv-twitter:before {
+    content: "\e912";
+  }
+  .my-cv-udemy:before {
+    content: "\e913";
+  }
+  .my-cv-youtube:before {
+    content: "\e914";
+  }
+  grid {
+    grid-template-columns: repeat(8, 1fr);
+  }
+  grid > column[span-tablet$="+4"],
+  grid > column[span-tablet="4"] {
+    grid-column-end: span 4;
+    grid-column-start: auto;
+  }
+  
+  grid[columns-tablet="4"] {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  body {
+    font-family: Roboto;
+    margin: 0 80px;
+    }
+  }
